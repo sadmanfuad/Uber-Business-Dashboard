@@ -3,6 +3,7 @@ The main objective of this dashboard is to evaluate Uber’s performance over ti
 
 
 📊 What I found:
+
 🔹 Auto leads the platform with ~23K completed bookings and ~13M in revenue, the highest of any ride type
 
 🔹 Bikes come second with ~21K completed bookings, so affordable short rides drive demand
